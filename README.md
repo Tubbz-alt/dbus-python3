@@ -4,7 +4,9 @@
 
 This is [SlackBuild](http://docs.slackware.com/slackware:slackbuild_scripts) for dbus-python3.
 
-See [dbus-python3](dbus-python3) and [slack-desc](slack-desc) for more info.
+See [dbus-python3.info](dbus-python3.info) and [slack-desc](slack-desc) for more info.
+
+> This build is porting from offical package dbus-python.
 
 ## DEPENDENCIES
 
