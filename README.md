@@ -17,8 +17,10 @@ See [dbus-python3.info](dbus-python3.info) and [slack-desc](slack-desc) for more
 ## BUILD
 
 ```
-git clone https://github.com/slackwarecn/dbus-python3.git
+git clone https://github.com/slackwarecn-slackbuilds/dbus-python3.git
 cd dbus-python3
-PREBUILD=yes ./dbus-python3.SlackBuild
+source dbus-python3.info
+wget $DOWNLOAD
+./dbus-python3.SlackBuild
 ```
 
